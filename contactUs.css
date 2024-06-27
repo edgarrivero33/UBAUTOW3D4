@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav {
+  padding: 14px;
+  overflow: hidden;
+  text-align: center;
+  background-color: #0a6cc0;
+}
+nav a {
+  display: inline-block;
+  padding: 14px 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+}
+nav a:hover {
+  background-color: #fff;
+  color: black;
+}
+body {
+  background: rgb(255, 255, 255);
+  font-size: 17px;
+}
+.container {
+  width: 80%;
+  margin: 50px;
+}
